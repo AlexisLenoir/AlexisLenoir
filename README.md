@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlexisLenoir
+- 👋 Hi, I’m Alexis Lenoir
 - 📫 How to reach me : alexismartinlenoir@gmail.com
 
 <!---
